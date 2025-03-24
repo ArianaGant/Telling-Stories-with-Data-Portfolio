@@ -8,4 +8,4 @@
 
 ## Heatmap
 
-<iframe src="https://public.tableau.com/views/InternationalGovernmentDebtHeatmap/Sheet1?" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+<iframe src="https://public.tableau.com/views/InternationalGovernmentDebtHeatmap/Sheet1?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
