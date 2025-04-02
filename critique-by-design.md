@@ -46,22 +46,24 @@ Source: https://informationisbeautiful.net/visualizations/water-world-distributi
 - I worry about the data. There is so much data clean-up that needs to be done on these provided spreadsheets that I’m considering not using the organism and used by human data at all. 
 - McCandless is a professional at information design and he says he spent 15,832 hours (1.81 years) working on this book. In all that time, isn’t it likely that he exhausted all the other options for type of visualization for this data? Why didn’t he use a more immediately intuitive format? Purely aesthetics? I’m not sure but in my mind’s eye, an Alluvial Diagram will look nicer.
 
-## Step three: Sketch a solution
+## A Sketch
 
-## Step four: Test the solution
+<img src="Water World Sketch.jpg" align=left width="500"/>
+
+This was my first draft.
+
+<br clear="left"/>
+
+## Testing the Sketch
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 
 Questions to ask (modify these for your own interviews): 
 
 - Can you tell me what you think this is?
-
 - Can you describe to me what this is telling you?
-
 - Is there anything you find surprising or confusing?
-
 - Who do you think is the intended audience for this?
-
 - Is there anything you would change or do differently?
 
 Results: 
