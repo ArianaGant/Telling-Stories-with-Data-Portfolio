@@ -2,11 +2,11 @@
 
 # Water World- A Critique by Design
 
-## The Original Vizualization 
+## The Original Visualization  
 
 <img src="Water World.png" align=left width="600"/>
 
-I chose this vizualization becuase it has some elements in its favor, including a pretty aesthetic and an interesting subject. However, it also has plenty of room for improvement, with a design that's not immediately intuitive. 
+I chose this visualization because it has some elements in its favor, including a pretty aesthetic and an interesting subject. However, it also has plenty of room for improvement, with a design that's not immediately intuitive. 
 
 <br clear="left"/>
 Source: [Information is Beautiful](https://informationisbeautiful.net/visualizations/water-world-distribution-of-the-all-the-water-in-all-the-world/)
@@ -56,7 +56,7 @@ I asked a couple people to critique my sketch, asking the questions below. Here 
 |----------|-------------|-------------|
 | Can you describe to me what this is telling you? | It's about where water can be found throughout the world. |The percent makeup of water in different categories.|
 | Is there anything you find surprising or confusing?| The title is long and worded confusingly. |Surprising: just how little water is found in humans and how much is salt water. |
-| What elements do you like? |The color choice is nice, I like how the scale gives perspective, and the lables are lined up neatly. |I like that the human one is red, it calls it to attention and I can compair it to everything else immediately.|
+| What elements do you like? |The color choice is nice, I like how the scale gives perspective, and the labels are lined up neatly. |I like that the human one is red, it calls it to attention and I can compare it to everything else immediately.|
 | Is there anything you would change or do differently? |Change the title, maybe to "Where is the World's Water?"|Maybe rotate 90 degrees clockwise, so it flows down like water.|
 | Do you think it's an improvement from the previous visualization?|Definitely, it was confusingly laid out and  didn't tell a story. |Yes, it's much more clear, easy to follow, and takes up less space.|
 
@@ -64,13 +64,12 @@ Not much of the feedback from the two sources was similar although they both agr
 
 ## The Final Form
 
-This is the final form of my water data vizualization. A couple notes:
-- I still prefer my sketch concept. I think it more clearly demonstrates the story I'm trying to tell about scale. Unfortunately I wasn't able to find software that would bring my vision to life sufficiantly in the time I had. That being said, I think the new vizualization isn't terrible and I think the title is better than it was before.
+This is the final form of my water data visualization. A couple notes:
+- I still prefer my sketch concept. I think it more clearly demonstrates the story I'm trying to tell about scale. Unfortunately I wasn't able to find software that would bring my vision to life sufficiently in the time I had. That being said, I think the new visualization isn't terrible and I think the title is better than it was before.
 - I spent a long time with McCandless' data and simply couldn't get it to make sense. Consequently, I would like to make it clear that I don't trust the "Organisms" data set and with more time, would have found a different one. 
 
 <iframe src="https://public.tableau.com/views/EarthsWater/Dashboard1?:showVizHome=no&:embed=true" width="100%" height="400" seamless frameborder="0" scrolling="no"></iframe>
 
-## Reference
-McCandless, David. “Water World.” Information is Beautiful. Accessed April 2, 2025. https://informationisbeautiful.net. 
+#### Source: McCandless, David. “Water World.” Information is Beautiful. Accessed April 2, 2025. [https://informationisbeautiful.net](https://informationisbeautiful.net). 
 
 #### AI Acknowledgements: N/A
