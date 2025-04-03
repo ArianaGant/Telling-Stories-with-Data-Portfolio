@@ -68,7 +68,16 @@ This is the final form of my water data visualization. A couple notes:
 - I still prefer my sketch concept. I think it more clearly demonstrates the story I'm trying to tell about scale. Unfortunately I wasn't able to find software that would bring my vision to life sufficiently in the time I had. That being said, I think the new visualization isn't terrible and I think the title is better than it was before.
 - I spent a long time with McCandless' data and simply couldn't get it to make sense. Consequently, I would like to make it clear that I don't trust the "Organisms" data set and with more time, would have found a different one. 
 
-<iframe src="https://public.tableau.com/views/EarthsWater/Dashboard1?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1743652384718');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
+  else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
+  else { vizElement.style.width='100%';vizElement.style.height='1277px';}                     
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 #### Source: McCandless, David. “Water World.” Information is Beautiful. Accessed April 2, 2025. [https://informationisbeautiful.net](https://informationisbeautiful.net). 
 
