@@ -64,9 +64,13 @@ Not much of the feedback from the two sources was similar although they both agr
 
 ## The Final Form
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+This is the final form of my water data vizualization. A couple notes:
+- I still prefer my sketch concept. I think it more clearly demonstrates the story I'm trying to tell about scale. Unfortunately I wasn't able to find software that would bring my vision to life sufficiantly in the time I had. That being said, I think the new vizualization isn't terrible and I think the title is better than it was before.
+- I spent a long time with McCandless' data and simply couldn't get it to make sense. Consequently, I would like to make it clear that I don't trust the "Organisms" data set and with more time, would have found a different one. 
 
-## References
-_List any references you used here._
+<iframe src="https://public.tableau.com/views/EarthsWater/Dashboard1?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+
+## Reference
+McCandless, David. “Water World.” Information is Beautiful. Accessed April 2, 2025. https://informationisbeautiful.net. 
 
 #### AI Acknowledgements: N/A
