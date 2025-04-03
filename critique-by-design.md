@@ -79,6 +79,8 @@ This is the final form of my water data visualization. A couple notes:
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+[Please view on Tableau](https://public.tableau.com/views/EarthsWater/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 #### Source: McCandless, David. “Water World.” Information is Beautiful. Accessed April 2, 2025. [https://informationisbeautiful.net](https://informationisbeautiful.net). 
 
 #### AI Acknowledgements: N/A
