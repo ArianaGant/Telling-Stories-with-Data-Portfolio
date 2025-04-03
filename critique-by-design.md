@@ -66,7 +66,9 @@ Not much of the feedback from the two sources was similar although they both agr
 
 This is the final form of my water data visualization. A couple notes:
 - I still prefer my sketch concept. I think it more clearly demonstrates the story I'm trying to tell about scale. Unfortunately I wasn't able to find software that would bring my vision to life sufficiently in the time I had. That being said, I think the new visualization isn't terrible and I think the title is better than it was before.
-- I spent a long time with McCandless' data and simply couldn't get it to make sense. Consequently, I would like to make it clear that I don't trust the "Organisms" data set and with more time, would have found a different one. 
+- I spent a long time with McCandless' data and simply couldn't get it to make sense. Consequently, I would like to make it clear that I don't trust the "Organisms" data set and with more time, would have found a different one.
+
+[Please view on Tableau](https://public.tableau.com/views/EarthsWater/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1743652384718');                    
@@ -80,8 +82,6 @@ This is the final form of my water data visualization. A couple notes:
 </script>
 
 <br clear="left"/>
-
-[Please view on Tableau](https://public.tableau.com/views/EarthsWater/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 #### Source: McCandless, David. “Water World.” Information is Beautiful. Accessed April 2, 2025. [https://informationisbeautiful.net](https://informationisbeautiful.net). 
 
