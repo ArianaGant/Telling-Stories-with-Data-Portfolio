@@ -1,13 +1,12 @@
 | [Home Page](README) | [For Reference](For-Reference) | [Data Viz Examples](dataviz-examples) | [Vizualizing Govt. Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
-# Water World
-### A Critique by Design
+# Water World- A Critique by Design
 
 ## The Original Vizualization 
 
 <img src="Water World.png" align=left width="600"/>
 
-I chose this vizualization becuase it has some elements in its favor, including visual aesthetics and an interesting subject. However, it also has plenty of room for improvement, with a design that's not immediately intuitive. 
+I chose this vizualization becuase it has some elements in its favor, including a pretty aesthetic and an interesting subject. However, it also has plenty of room for improvement, with a design that's not immediately intuitive. 
 
 <br clear="left"/>
 Source: [Information is Beautiful](https://informationisbeautiful.net/visualizations/water-world-distribution-of-the-all-the-water-in-all-the-world/)
