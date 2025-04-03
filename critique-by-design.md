@@ -73,15 +73,11 @@ This is the final form of my water data visualization. A couple notes:
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1743652384718');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
-  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
-  else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
-  else { vizElement.style.width='100%';vizElement.style.height='1277px';}                     
+  vizElement.style.width='100%';vizElement.style.height='1277px';                     
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
-<br clear="left"/>
 
 #### Source: McCandless, David. “Water World.” Information is Beautiful. Accessed April 2, 2025. [https://informationisbeautiful.net](https://informationisbeautiful.net). 
 
