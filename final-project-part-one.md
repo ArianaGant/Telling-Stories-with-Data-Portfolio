@@ -5,11 +5,15 @@
 ### New Mexicans: Do you like Green Chile?
 ### Then you should care about the Silvery Minnow
 
-Green Chile Peppers (aka New Mexico, Red, or Hatch Chile) are staples in the New Mexican diet. Enchiladas, burritos, quesadillas, pizza, hamburgers, and more would all be incomplete without the state vegetable. These peppers are primarily grown in New Mexico, with some cultivation in California and Texas. Of the crops grown in New Mexico, the vast majority are irrigated by the Rio Grande. (green chile pic)
+Green Chile Peppers (aka New Mexico, Red, or Hatch Chile) are staples in the New Mexican diet. Enchiladas, burritos, quesadillas, pizza, hamburgers, and more would all be incomplete without the state vegetable. These peppers are primarily grown in New Mexico, with some cultivation in California and Texas. Of the crops grown in New Mexico, the vast majority are irrigated by the Rio Grande.
 
-The Rio Grande is a river stretching from Colorado, through central New Mexico, and south to serve as the border between Texas and Mexico before letting out into the Gulf of Mexico. The river is absolutely vital to New Mexico, providing freshwater for agriculture, wildlife, and more. Over time, the river has faced a number of challenges, including pollution, man-made dams, climate change, and drought. I lived in Albuquerque, New Mexico from 2000-2018 and during that time, the stretch of the Rio Grande running through the city was almost always dry. (add map)
+The Rio Grande is a river stretching from Colorado, through central New Mexico, and south to serve as the border between Texas and Mexico before letting out into the Gulf of Mexico. The river is absolutely vital to New Mexico, providing freshwater for agriculture, wildlife, and more. Over time, the river has faced a number of challenges, including pollution, man-made dams, climate change, and drought. I lived in Albuquerque, New Mexico from 2000-2018 and during that time, the stretch of the Rio Grande running through the city was almost always dry.
 
-Aside from water level, an indicator of the health of the Rio Grande is the Rio Grande Silvery Minnow (Hybognathus amarus). The Silvery Minnow has suffered in light of the challenges facing the Rio Grande and was officially classified as endangered in 1994. Consequently detailed records have been kept of the fish’s population since then. Described as a “canary in a coal mine”, direct correlation can be seen between Silvery Minnow populations and river health, offering a clear visualization of the Rio Grande being in trouble. (add fish pic)
+<img src="Silvery Minnow.png" align=right width="600"/>
+
+Aside from water level, an indicator of the health of the Rio Grande is the Rio Grande Silvery Minnow (Hybognathus amarus). The Silvery Minnow has suffered in light of the challenges facing the Rio Grande and was officially classified as endangered in 1994. Consequently detailed records have been kept of the fish’s population since then. Described as a “canary in a coal mine”, direct correlation can be seen between Silvery Minnow populations and river health, offering a clear visualization of the Rio Grande being in trouble.
+
+<br clear="left"/>
 
 To connect it all, New Mexicans care deeply about the Green Chile industry, which is completely reliant on the state of the Rio Grande, whose health can be demonstrated by the state of the Rio Grande Silvery Minnow population.
 
@@ -21,10 +25,15 @@ To connect it all, New Mexicans care deeply about the Green Chile industry, whic
 4. How the Silvery Minnow mirrors the health of the river - population compared to river indicators 
 5. What everyday people and legislators can do to help the river & minnows and ensure that we never run out of green chile
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+<img src="Customer Journey.png" align=left width="600"/>
+<br clear="left"/>
 
-Text here...
+## Initial sketches
+
+<img src="Chile Count.png" align=left width="600"/>
+<img src="Chile Irrigation" align=left width="600"/>
+<img src="Rio Grande.png" align=left width="600"/>
+<br clear="left"/>
 
 ## The data
 
@@ -50,4 +59,4 @@ I plan to use Shorthand to showcase my final story and Tableau and/or Data Wrapp
 _List any references you used here._
 
 ### AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+N/A
