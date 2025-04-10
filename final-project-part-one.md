@@ -55,9 +55,10 @@ I plan to use Shorthand to showcase my final story and Tableau and/or Data Wrapp
 ### References
 
 “Rio Grande at Albuquerque, NM.” Accessed April 9, 2025. https://waterdata.usgs.gov/monitoring-location/08330000/.
+
 “Rio Grande Silvery Minnow (Hybognathus Amarus) | U.S. Fish & Wildlife Service,” August 30, 2023. https://www.fws.gov/species/rio-grande-silvery-minnow-hybognathus-amarus.
-“Scientific Investigations Report.” Scientific Investigations Report. Scientific Investigations Report, 2021.
-Water. “Why the Fate of a Tiny Rio Grande Fish Is So Important,” May 22, 2017. https://deeply.thenewhumanitarian.org/water/articles/2017/05/22/why-the-fate-of-a-tiny-rio-grande-fish-is-so-important.html.
+
+Redfern, Jerry. “Why the Fate of a Tiny Rio Grande Fish Is So Important.” The New Humanitarian, May 22, 2017. https://deeply.thenewhumanitarian.org/water/articles/2017/05/22/why-the-fate-of-a-tiny-rio-grande-fish-is-so-important.html.
 
 
 ### AI acknowledgements
