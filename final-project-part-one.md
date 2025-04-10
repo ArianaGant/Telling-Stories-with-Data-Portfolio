@@ -28,13 +28,13 @@ Text here...
 
 ## The data
 
-| Name | URL | Use |
-|------------|-----|-------------|
-|United States Department of Agriculture - Vegetables 2024 Summary            |https://www.nass.usda.gov/Statistics_by_State/New_Mexico/Publications/News_Releases/2025/NM-Vegetables-02122025.pdf     |Chile Industry Data             |
-|NM MEP Agriculture Review       |https://webnew.ped.state.nm.us/wp-content/uploads/2018/10/New-Mexico-Agriculture-Report.pdf     |Chile Industry Data             |
-|USGS Rio Grande Water Withdrawal      |https://pubs.usgs.gov/sir/2021/5036/sir20215036.pdf     |Rio Grande Watering the Chile             |
-|USGS Rio Grande Water Levels & Health      |https://waterdata.usgs.gov/monitoring-location/08330000/#dataTypeId=continuous-00065-0&showMedian=false&startDT=2014-01-01&endDT=2024-12-31     |Water Level & Pollution             |
-|U.S. Bureau of Reclamation Silvery Minnow Population 2023      |https://webapps.usgs.gov/mrgescp/documents/2023-RGSM-Population-Monitoring-Final-Report.pdf     |Silvery Minnow Population              |
+| Data Set | Use |
+|------------|-------------|
+|[United States Department of Agriculture - Vegetables 2024 Summary](https://www.nass.usda.gov/Statistics_by_State/New_Mexico/Publications/News_Releases/2025/NM-Vegetables-02122025.pdf)     |Chile Industry Data             |
+|[NM MEP Agriculture Review](https://webnew.ped.state.nm.us/wp-content/uploads/2018/10/New-Mexico-Agriculture-Report.pdf)     |Chile Industry Data             |
+|[USGS Rio Grande Water Withdrawal](https://pubs.usgs.gov/sir/2021/5036/sir20215036.pdf)     |Rio Grande Watering the Chile             |
+|[USGS Rio Grande Water Levels & Health](https://waterdata.usgs.gov/monitoring-location/08330000/#dataTypeId=continuous-00065-0&showMedian=false&startDT=2014-01-01&endDT=2024-12-31)     |Water Level & Pollution             |
+|[U.S. Bureau of Reclamation Silvery Minnow Population 2023](https://webapps.usgs.gov/mrgescp/documents/2023-RGSM-Population-Monitoring-Final-Report.pdf)     |Silvery Minnow Population              |
 
 I’ll be using the United States Department of Agriculture and the New Mexico Migrant Education Program Agriculture Review documents for data on the green chile industry. There are a couple measurements I could use but I think I’ll show how much of all green chile production is from New Mexico. Since my audience is New Mexicans, I don’t think that I need to stress the importance of green chile or how big the industry is- they already know. The story I’m trying to tell is that the Rio Grande being in trouble means that green chile is also in trouble.
 
