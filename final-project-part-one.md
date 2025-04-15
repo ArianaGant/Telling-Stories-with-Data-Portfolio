@@ -54,17 +54,17 @@ I plan to use Shorthand to showcase my final story and Tableau and/or Data Wrapp
 
 ## References
 
-Dudley, Robert, Steven Platania, and Gary White. “Rio Grande Silvery Minnow Population Monitoring During 2023.” U.S. Bureau of Reclamation, n.d. https://webapps.usgs.gov/mrgescp/documents/2023-RGSM-Population-Monitoring-Final-Report.pdf.
+Dudley, Robert, Steven Platania, and Gary White. “Rio Grande Silvery Minnow Population Monitoring During 2023.” U.S. Bureau of Reclamation, n.d. [https://webapps.usgs.gov/mrgescp/documents/2023-RGSM-Population-Monitoring-Final-Report.pdf](https://webapps.usgs.gov/mrgescp/documents/2023-RGSM-Population-Monitoring-Final-Report.pdf).
 
-National Agriculture Statistics Service. “Vegetables 2024 Summary,” February 12, 2025. https://www.nass.usda.gov/Statistics_by_State/New_Mexico/Publications/News_Releases/2025/NM-Vegetables-02122025.pdf.
+National Agriculture Statistics Service. “Vegetables 2024 Summary,” February 12, 2025. [https://www.nass.usda.gov/Statistics_by_State/New_Mexico/Publications/News_Releases/2025/NM-Vegetables-02122025.pdf](https://www.nass.usda.gov/Statistics_by_State/New_Mexico/Publications/News_Releases/2025/NM-Vegetables-02122025.pdf).
 
-Redfern, Jerry. “Why the Fate of a Tiny Rio Grande Fish Is So Important.” The New Humanitarian, May 22, 2017. https://deeply.thenewhumanitarian.org/water/articles/2017/05/22/why-the-fate-of-a-tiny-rio-grande-fish-is-so-important.html.
+Redfern, Jerry. “Why the Fate of a Tiny Rio Grande Fish Is So Important.” The New Humanitarian, May 22, 2017. [https://deeply.thenewhumanitarian.org/water/articles/2017/05/22/why-the-fate-of-a-tiny-rio-grande-fish-is-so-important.html](https://deeply.thenewhumanitarian.org/water/articles/2017/05/22/why-the-fate-of-a-tiny-rio-grande-fish-is-so-important.html).
 
-“Rio Grande at Albuquerque, NM.” Accessed April 9, 2025. https://waterdata.usgs.gov/monitoring-location/08330000/.
+“Rio Grande at Albuquerque, NM.” Accessed April 9, 2025. [https://waterdata.usgs.gov/monitoring-location/08330000/](https://waterdata.usgs.gov/monitoring-location/08330000/).
 
-“Rio Grande Silvery Minnow (Hybognathus Amarus) | U.S. Fish & Wildlife Service,” August 30, 2023. https://www.fws.gov/species/rio-grande-silvery-minnow-hybognathus-amarus.
+U.S. Fish & Wildlife Service. “Rio Grande Silvery Minnow (Hybognathus Amarus)," August 30, 2023. [https://www.fws.gov/species/rio-grande-silvery-minnow-hybognathus-amarus](https://www.fws.gov/species/rio-grande-silvery-minnow-hybognathus-amarus).
 
-U.S. Geological Survey. “Estimates of Public-Supply, Domestic, and Irrigation Water Withdrawal, Use, and Trends in the Upper Rio Grande Basin, 1985 to 2015,” 2021. https://pubs.usgs.gov/sir/2021/5036/sir20215036.pdf.
+U.S. Geological Survey. “Estimates of Public-Supply, Domestic, and Irrigation Water Withdrawal, Use, and Trends in the Upper Rio Grande Basin, 1985 to 2015,” 2021. [https://pubs.usgs.gov/sir/2021/5036/sir20215036.pdf](https://pubs.usgs.gov/sir/2021/5036/sir20215036.pdf).
 
 ### AI acknowledgements
 N/A
