@@ -3,7 +3,7 @@
 # Ariana's Portfolio
 ## Telling Stories with Data- Spring 2025
 
-- Web page URL: https://arianagant.github.io/Telling-Stories-with-Data-Portfolio/
+[Web Page URL](https://arianagant.github.io/Telling-Stories-with-Data-Portfolio/)
 
 # About me
 Hi! My name is Ariana (she/her) and I'm a Master of Arts Management student at Carnegie Mellon Univeristy. I have a bachelor's degree in Business Management with minors in Theatre and Dance. I aspire to work for a large regional performing arts organization, preferably in marketing or education. 
