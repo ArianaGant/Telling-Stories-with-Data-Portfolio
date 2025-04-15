@@ -8,9 +8,10 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-My audience is people living in New Mexico. It's hard to describe just how important green chile is to New Mexican culture, so a title like "Do you like green chile?"
+My audience is people living in New Mexico. It's hard to describe just how important green chile is to New Mexican culture, so a title like "Do you like green chile?" is highly likely to draw in my intended audience. Ultimately, I plan for my call to action to address both every-day people and legislators alike, all of which who love green chile. There are plenty of other crops that I could have chosen, but it's really the people living in New Mexico that can make a difference, so I decided to chose a niche vegetable targeting them specifically.
+
+None of the people I asked to review my product are from New Mexico, so I asked them to pretend that they do know and love green chile.
 
 ## Interview script
 
