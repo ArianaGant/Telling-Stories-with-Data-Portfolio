@@ -28,12 +28,12 @@ None of the people I asked to review my product are from New Mexico, so I asked 
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| What do you like most? ||||
-| What would you suggest changing? ||||
-| Do my connections between topics make sense? ||||
-| Are there other topics that would positively contribute to the narrative? ||||
+| What do you like most? |Liked the pictures|Visualization about how much chile is grown||
+| What would you suggest changing? |More fish content|||
+| Do my connections between topics make sense? |Yes|||
+| Are there other topics that would positively contribute to the narrative? |X% of New Mexicans who like/eat chile||More economic impact facts|
 | Does the data that I'm visualizing further my argument? ||||
-| Do these visualizations make sense for the data they're displaying? | | | |
+| Do these visualizations make sense for the data they're displaying? |It might be easier for the chile grown in NM/by the river to be the same graph types and melt into eachother | | |
 
 
 # Identified Changes for Part III
