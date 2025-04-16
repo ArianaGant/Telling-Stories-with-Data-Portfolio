@@ -11,7 +11,7 @@ Text here!
 
 My audience is people living in New Mexico. It's hard to describe just how important green chile is to New Mexican culture, so a title like "Do you like green chile?" is highly likely to draw in my intended audience. Ultimately, I plan for my call to action to address both every-day people and legislators alike, all of which who love green chile. There are plenty of other crops that I could have chosen, but it's really the people living in New Mexico that can make a difference, so I decided to choose a niche vegetable targeting them specifically.
 
-None of the people I asked to review my product are from New Mexico, so I asked them to pretend that they do know and love green chile. That being said, the knowledge of green chile is really only a hook, not a prerequisite for understanding the material. Consequently, I felt comfortable asking my peers here to serve as my interviewees. Really the only qualification that I was looking for was a willingness to learn something new and a high likelihood for caring about the environment. 
+None of the people I asked to review my product are from New Mexico, so I asked them to pretend that they do know and love green chile. That being said, the knowledge of green chile is really only a hook, not a prerequisite for understanding the material. Consequently, I felt comfortable asking my peers here to serve as my interviewees. Really the only qualification that I was looking for was a willingness to learn something new and a high likelihood of caring about the environment. 
 
 ## Interview Script
 
@@ -28,11 +28,12 @@ None of the people I asked to review my product are from New Mexico, so I asked 
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| What do you like most? |             |             |             |
-| What would you suggest changing?                    |                                |             |             |
-| Do my connections between topics make sense?       |                                |             |             |
-| Are there other topics that would positively contribute to the narrative? |                    |             |             |
-| Does the data that I'm visualizing further my argument?       |                                |             |             | Do these visualizations make sense for the data they're displaying? | | | |
+| What do you like most? ||||
+| What would you suggest changing? ||||
+| Do my connections between topics make sense? ||||
+| Are there other topics that would positively contribute to the narrative? ||||
+| Does the data that I'm visualizing further my argument? ||||
+| Do these visualizations make sense for the data they're displaying? | | | |
 
 
 # Identified Changes for Part III
