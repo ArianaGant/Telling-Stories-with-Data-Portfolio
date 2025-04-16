@@ -5,15 +5,15 @@
 
 Text here!
 
-# User research 
+# User Research 
 
-## Target audience
+## Target Audience
 
 My audience is people living in New Mexico. It's hard to describe just how important green chile is to New Mexican culture, so a title like "Do you like green chile?" is highly likely to draw in my intended audience. Ultimately, I plan for my call to action to address both every-day people and legislators alike, all of which who love green chile. There are plenty of other crops that I could have chosen, but it's really the people living in New Mexico that can make a difference, so I decided to chose a niche vegetable targeting them specifically.
 
 None of the people I asked to review my product are from New Mexico, so I asked them to pretend that they do know and love green chile.
 
-## Interview script
+## Interview Script
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -24,33 +24,32 @@ None of the people I asked to review my product are from New Mexico, so I asked 
 | Create a visually appealing product | What do you like most? |
 | "     | What would you suggest changing? |
 
-## Interview findings
+## Interview Findings
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| What do you like most? | Insightful feedback            |             |             |
+| What do you like most? |             |             |             |
 | What would you suggest changing?                    |                                |             |             |
 | Do my connections between topics make sense?       |                                |             |             |
 | Are there other topics that would positively contribute to the narrative? |                    |             |             |
 | Does the data that I'm visualizing further my arguement?       |                                |             |             | Do these visualizations make sense for the data they're displaying? | | | |
 
 
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+# Identified Changes for Part III
 
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
+| Research Synthesis                       | Anticipated Changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| I find myself wanting to create a Sankey Graph again and again but it might not be the best option here.  | Given the way the shorthand is set up, having one pictograph melt into another is probably going to be more visually impactful when depicting the percentage of green chile grown in New Mexico and then watered by the Rio Grande. | 
+| It was suggested to have a visualization to wrap it all up. | If I can swing it, I'll try to make a web-of-life type of graph. |
+| An issue I'm running into is that water quality changes at different points along the river and it's a huge river. | I'll likely have to put in a little note saying as much. |
+| It might be nice to show where the fish and crops are.| If I can, I'd love to make some maps showing Silvery Minnow range and areas where Green Chile is grown throughout New Mexico.|
+|||
+|||
+|||
+
+
 
 > ...include any final thoughts you have here. 
-
-Text here!
 
 ## References
 _List any references you used here._
