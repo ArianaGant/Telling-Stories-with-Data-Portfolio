@@ -1,4 +1,4 @@
-| [Home Page](readme) | [For Reference](For-Reference) | [Data Viz Examples](dataviz-examples) | [Vizualizing Govt. Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
+| [Home Page](read-me) | [For Reference](For-Reference) | [Data Viz Examples](dataviz-examples) | [Vizualizing Govt. Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # Ariana's Portfolio
 ## Telling Stories with Data- Spring 2025
