@@ -5,6 +5,7 @@
 ## Storyboard
 
 #### [Shorthand Preview Link](https://preview.shorthand.com/RX4naqDZwPmjvm0J/responsive/desktop)
+Please note that my Shorthand is really in its roughest form right now.
 
 ## User Research 
 
@@ -26,7 +27,7 @@ None of the people I asked to review my product are from New Mexico, so I asked 
 
 ### Interview Findings
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (Female MAM Student, 20s) | Interview 2 (Female MAM Student, 20s)| Interview 3 (Male Engineer, 20s)|
 |-------------------------|--------------------------------|-------------|-------------|
 | What do you like most? |I like the pictures|Visualization about how much chile is grown||
 | What would you suggest changing? |More fish content, like where are they?|Maybe add some sort of web tying it all together||
