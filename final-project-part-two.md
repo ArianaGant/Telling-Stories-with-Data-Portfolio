@@ -4,7 +4,7 @@
 
 ## Storyboard
 
-#### Shorthand Link
+#### [Shorthand Preview Link](https://preview.shorthand.com/RX4naqDZwPmjvm0J/responsive/desktop)
 
 ## User Research 
 
@@ -29,7 +29,7 @@ None of the people I asked to review my product are from New Mexico, so I asked 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | What do you like most? |I like the pictures|Visualization about how much chile is grown||
-| What would you suggest changing? |More fish content|Maybe add some sort of web tying it all together||
+| What would you suggest changing? |More fish content, like where are they?|Maybe add some sort of web tying it all together||
 | Do my connections between topics make sense? |Yes|Yes||
 | Are there other topics that would positively contribute to the narrative? |X% of New Mexicans who like/eat chile|More economic impact facts||
 | Do these visualizations make sense for the data they're displaying? |It might be easier for the chile grown in NM/by the river to be the same graph types and melt into eachother |Yes | |
@@ -41,8 +41,8 @@ None of the people I asked to review my product are from New Mexico, so I asked 
 | I find myself wanting to create a Sankey Graph again and again but it might not be the best option here.  | Given the way the shorthand is set up, having one pictograph melt into another is probably going to be more visually impactful when depicting the percentage of green chile grown in New Mexico and then watered by the Rio Grande. | 
 | It was suggested to have a visualization to wrap it all up. | If I can swing it, I'll try to make a web-of-life type of graph. |
 | An issue I'm running into is that water quality changes at different points along the river and it's a huge river. | I'll likely have to put in a little note saying as much. |
-| It might be nice to show where the fish and crops are.| If I can, I'd love to make some maps showing Silvery Minnow range and areas where Green Chile is grown throughout New Mexico.|
-|||
+| I'd like to give more minnow background info.| I plan to add more info about the minnows. If I can, I'd also love to make some maps showing Silvery Minnow range and areas where Green Chile is grown throughout New Mexico.|
+|More chile background info was requested.|In addition to the chile cultivation map, I'd love to add more about how many New Mexicans eat chile/economic impact.|
 |||
 |||
 
