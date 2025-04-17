@@ -29,11 +29,11 @@ None of the people I asked to review my product are from New Mexico, so I asked 
 
 | Questions               | Interview 1 (Female MAM Student, 20s) | Interview 2 (Female MAM Student, 20s)| Interview 3 (Male Engineer, 20s)|
 |-------------------------|--------------------------------|-------------|-------------|
-| What do you like most? |I like the pictures|Visualization about how much chile is grown||
-| What would you suggest changing? |More fish content, like where are they?|Maybe add some sort of web tying it all together||
-| Do my connections between topics make sense? |Yes|Yes||
-| Are there other topics that would positively contribute to the narrative? |X% of New Mexicans who like/eat chile|More economic impact facts||
-| Do these visualizations make sense for the data they're displaying? |It might be easier for the chile grown in NM/by the river to be the same graph types and melt into eachother |Yes | |
+| What do you like most? |I like the pictures|Visualization about how much chile is grown|Focus on why I should care about the Rio Grande- attention grabbing.|
+| What would you suggest changing? |More fish content, like where are they?|Maybe add some sort of web tying it all together|More info about the fish|
+| Do my connections between topics make sense? |Yes|Yes|Yes until the Silvery Minnow|
+| Are there other topics that would positively contribute to the narrative? |X% of New Mexicans who like/eat chile|More economic impact facts|No|
+| Do these visualizations make sense for the data they're displaying? |It might be easier for the chile grown in NM/by the river to be the same graph types and melt into eachother |Yes |Yeah, but the bar one (the sankey chart) took me a while |
 
 ## Identified Changes for Part III
 
