@@ -28,7 +28,7 @@ None of the people I asked to review my product are from New Mexico, so I asked 
 ### Interview Findings
 
 | Questions               | Interview 1 (Female MAM Student, 20s) | Interview 2 (Female MAM Student, 20s)| Interview 3 (Male Engineer, 20s)|
-|-------------------------|--------------------------------|-------------|-------------|
+|-------------------------|-------------|-------------|-------------|
 | What do you like most? |I like the pictures|Visualization about how much chile is grown|I like the focus on why I should care about the Rio Grande|
 | What would you suggest changing? |More fish content, like where are they?|Maybe add some sort of web tying it all together|More info about the fish|
 | Do my connections between topics make sense? |Yes|Yes|Yes, until the Silvery Minnow|
