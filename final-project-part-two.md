@@ -5,7 +5,6 @@
 ## Storyboard
 
 #### [Shorthand Preview Link](https://preview.shorthand.com/RX4naqDZwPmjvm0J/responsive/desktop)
-Please note that my Shorthand is really in its roughest form right now.
 
 ## User Research 
 
