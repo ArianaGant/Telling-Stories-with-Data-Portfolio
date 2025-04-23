@@ -4,7 +4,7 @@
 
 ## Storyboard
 
-#### [Shorthand Preview Link](https://preview.shorthand.com/RX4naqDZwPmjvm0J/responsive/desktop)
+### [Shorthand Preview Link](https://preview.shorthand.com/RX4naqDZwPmjvm0J/responsive/desktop)
 
 ## User Research 
 
