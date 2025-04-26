@@ -2,16 +2,14 @@
 
 # Final Project Part III
 
-## The Final Storyboard
-
-Text here!
+### The Final Storyboard
 
 ## Changes made since Part II
 
-- My data set talking about how the chiles are irrigated wasn't saying what I thought it was. Consequently, I didn't have any real source telling me what percentage of New Mexico-grown chile is irrigated along the Rio Grande. I think it’s actually 100% but I can't back that up. Consequently, I had to cut the sankey graph and anything it may have changed into.
+- My data set about how the chiles are irrigated wasn't saying what I thought it was. Consequently, I didn't have any real source telling me what percentage of New Mexico-grown chile is irrigated along the Rio Grande. I think it’s actually 100% but I can't back that up. Consequently, I had to cut the sankey graph and anything it may have changed into.
 - The web-of-life idea never really came out the way I wanted it to and got cut. I hope I did a good enough job tying it all together with my words.
-- I wanted to add significantly more info about the minnows and I’d like to think I did. I wanted to add a map of their current range but I think my current visualization about their recent and historical range kilometers does just as good of a job conveying the same message. 
-- I wanted to add a map of where green chile is grown in the state, but I couldn’t find that data for the life of me. The best I found was cheesy graphics that pointed out general agricultural regions but had no sources. I also wanted to add more about the economic impact of chile on New Mexico. Ultimately, I found that my hook about the state aroma, vegetable, question, and answer did more to demonstrate the importance of the vegetable to the state than the economic numbers I found. 
+- I wanted to add more info about the minnows and I’d like to think I did. I wanted to add a map of their current range but I think my current visualization about their recent and historical range kilometers does just as good of a job conveying the same message. 
+- I wanted to add a map of where green chile is grown in the state, but I couldn’t find that data for the life of me. The best I found was a cheesy graphic that pointed out general agricultural regions but had no sources. I also wanted to add more about the economic impact of chile on New Mexico. Ultimately, I found that my hook about the state aroma, vegetable, question, and answer did more to demonstrate the importance of the vegetable to the state than the economic numbers I found. 
 - I originally had charts about water level, water quality, and minnow population included in my concept. I meant to display how they mimicked each other and how minnow populations are a good indicator of the health of the river. However, despite hours of searching, I couldn’t find historic data. It seems that these metrics only began to be tracked once things got “bad”. Any data I could find had no point of reference against which to look bad. Every source told me that the river is in trouble but I couldn’t find the hard, reputable data to tell that same story. Consequently, I had to cut those intended charts. 
 - An issue I was running into was that water quality changes at different points along the river, it’s a huge river, and green chile cultivation doesn’t currently overlap with the range of the minnows. I made the observation that I would have to note all these things. However, I never actually made the intended charts about water level, water quality, and minnow population, so that note would have been unnecessary. 
 - In the end, aside from adding elements like the aroma hook, background information, and the “what we can do” section, my biggest addition was the drop in chile production statistic. That statistic was really helpful in furthering my case and I hope I used it effectively. 
