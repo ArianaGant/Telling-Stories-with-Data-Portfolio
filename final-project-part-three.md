@@ -2,7 +2,7 @@
 
 # Final Project Part III
 
-### The Final Storyboard
+### [The Final Storyboard](https://carnegiemellon.shorthandstories.com/you-should-care-about-the-silvery-minnow/index.html)
 
 ## Changes made since Part II
 
