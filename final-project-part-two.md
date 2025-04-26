@@ -2,9 +2,7 @@
 
 # Final Project Part II
 
-## Storyboard
-
-### [Shorthand Preview Link](https://preview.shorthand.com/RX4naqDZwPmjvm0J/responsive/desktop)
+### [Shorthand Storyboard Preview Link](https://preview.shorthand.com/RX4naqDZwPmjvm0J/responsive/desktop)
 
 ## User Research 
 
